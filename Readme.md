@@ -16,6 +16,7 @@
 
 ## 参考资料
 - [风格转移之WCT（Whiten- Color Transform）](https://blog.csdn.net/zwx1995zwx/article/details/79667068)
+- [《Universal Style Transfer via Feature Transforms》论文解读](https://blog.csdn.net/maqunfi/article/details/89296648)
 
 ## 说明
 
