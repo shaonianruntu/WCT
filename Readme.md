@@ -6,7 +6,7 @@
  * @LastEditors: fangn
  * @LastEditTime: 2019-11-21 19:00:26
  -->
-# WCT_Pytorch
+# WCT implementation based on Pytorch
 
 ## 论文地址
 [Universal Style Transfer via Feature Transforms](https://arxiv.org/abs/1705.08086)
